@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Google SignIn</string>
+    <string name="default_web_client_id">899927263312-ic5ug6m186t193r6uviec4ov3ppgbp9i.apps.googleusercontent.com</string>
+</resources>

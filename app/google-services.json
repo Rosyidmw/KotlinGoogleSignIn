@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "899927263312",
+    "project_id": "kotlin-signin",
+    "storage_bucket": "kotlin-signin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899927263312:android:104167c8ab22d4fbdf2955",
+        "android_client_info": {
+          "package_name": "com.rosyid.kotlingooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899927263312-ic5ug6m186t193r6uviec4ov3ppgbp9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosyid.kotlingooglesignin",
+            "certificate_hash": "888dc5372b1b070876364c85605bf0763da7c49a"
+          }
+        },
+        {
+          "client_id": "899927263312-h418lfdipljq14it4ncfoqp3p85bkema.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWx4eXeSAZCvWwCZrU3_kBnMOTCqZE320"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899927263312-h418lfdipljq14it4ncfoqp3p85bkema.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
